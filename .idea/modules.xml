@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW_2_OOP/HW_2_OOP.iml" filepath="$PROJECT_DIR$/HW_2_OOP/HW_2_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW_2_OOP_BondarenkoTanya.iml" filepath="$PROJECT_DIR$/.idea/HW_2_OOP_BondarenkoTanya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_2_OOP_advance/HW_2_OOP_advance.iml" filepath="$PROJECT_DIR$/HW_2_OOP_advance/HW_2_OOP_advance.iml" />
+    </modules>
+  </component>
+</project>
