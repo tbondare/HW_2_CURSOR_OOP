@@ -59,17 +59,17 @@ public class Fractions {
     }
 
     public static void main(String[] args) {
-        Fractions fractionFirst = new Fractions(1L, (short)2345);
-        Fractions fractionSec = new Fractions(0L, (short)7689);
+        Fractions fractionFirst = new Fractions(1L, (short) 2345);
+        Fractions fractionSec = new Fractions(0L, (short) 7689);
         fractionFirst.Sum(fractionSec);
         fractionFirst.print();
 
-        System.out.println(fractionFirst.Equal(new Fractions(1L, (short)2345)));
+        System.out.println(fractionFirst.Equal(new Fractions(1L, (short) 2345)));
 
         fractionFirst.Sub(fractionSec);
         fractionFirst.print();
 
-        System.out.println(fractionFirst.Equal(new Fractions(1L, (short)2345)));
+        System.out.println(fractionFirst.Equal(new Fractions(1L, (short) 2345)));
 
         fractionFirst.Mul(fractionSec);
         fractionFirst.print();
